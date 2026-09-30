@@ -1,0 +1,9 @@
+{
+  "shul_in_shul.configuration.title": "Shulker in Shulker Configs",
+  "shul_in_shul.configuration.section.shul_in_shul.common.toml": "Shulker in Shulker Configs",
+  "shul_in_shul.configuration.section.shul_in_shul.common.toml.title": "Shulker in Shulker Configs",
+  "shul_in_shul.configuration.maxNestingDepth": "Fallback Max Nesting Depth",
+
+  "gamerule.shulkerMaxNestingDepth": "Shulker Max Nesting Depth",
+  "gamerule.shulkerMaxNestingDepth.description": "The maximum number of nested shulker box layers allowed (1 = one box inside another)."
+}

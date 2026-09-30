@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.shulinshul.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockItemMixin",
+    "ShulkerBoxBlockEntityMixin",
+    "ShulkerBoxSlotMixin",
+    "SlotAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
